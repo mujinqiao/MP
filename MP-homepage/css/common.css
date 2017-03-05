@@ -1,0 +1,40 @@
+.public-container-1{
+    position: relative;
+    margin: 0 auto;
+    width: 940px;
+}
+
+.public-container-2{
+    position: relative;
+    margin: 0 auto;
+    width: 1140px;
+    /*height: 70px;*/
+    /*background-color: #ff0000;*!*/
+}
+
+.public-header{
+    height: 70px;
+}
+
+.public-header .logo{
+    float: left;
+    padding-top: 17px;
+}
+
+.public-header .nav{
+    float: right;
+}
+
+.public-header .item{
+    font-size: 14px;
+    float: left;
+    padding-left:20px ;
+    padding-right: 20px;
+    line-height: 70px;
+}
+
+.blue{
+    font-size: 22px;
+    color:#486fbf;
+}
+
